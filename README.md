@@ -1,9 +1,13 @@
 scrum-poker
 ===========
 
+![Custom Planning Poker NeosIT](http://mbiebusch.de/content/images/2014/Mar/ScrumPoker2_1-1.jpg)
+
 NeosIT Scrum Poker Set. Vier Decks, inklusive Anleitung und Deckblatt. CC by-nc-sa
 
 Scrum Poker wird bei der agilen Softwareentwicklung eingesetzt um Aufwände zu schätzen. Dieses erfolgt über ein spezialisiertes Pokerset. Wir haben uns hierfür ein eigenes Set designt, welches hier mit den Quelldaten verfügbar ist. [Weitere Informationen und Bilder](http://mbiebusch.de/planning-poker-set/).
+
+![Custom Planning Poker NeosIT](http://farm3.staticflickr.com/2876/12927269805_74e04d11ed_o.jpg)
 
 Inhalt
 ------
